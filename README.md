@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />  
 <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />  
 <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />  
+<img src="https://img.shields.io/badge/Sequelize-%235E5E5E.svg?style=for-the-badge&logo=sequelize&logoColor=white" />
 
 ### Databases  
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
